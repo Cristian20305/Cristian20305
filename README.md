@@ -1,7 +1,7 @@
  <img src="FotoInicio.jpg" alt="Descripción de la imagen" width="100" height="100"/>   Hola, mi nombre es Cristian Penalva 👋
-### Freelance full-stack iOS & Android engineer
+### Programador Profesional 
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+<img src="Banner.jpg" alt="Descripción de la imagen" width="100" height="100"/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
