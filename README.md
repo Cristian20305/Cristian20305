@@ -1,7 +1,7 @@
  <img src="FotoInicio.jpg" alt="Descripción de la imagen" width="100" height="100"/>   Hola, mi nombre es Cristian Penalva 👋
 ### Programador Profesional 
 
-<img src="Cabecera.jpg" alt="Descripción de la imagen" width="100" height="100"/>
+<img src="Cabecera.jpg" alt="Descripción de la imagen" width="2500" height="350"/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -10,11 +10,13 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde 2010.
+Soy progrmador desde 2023 
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
+Claro, aquí tienes una versión más extensa:
 
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+Soy programador con una sólida formación académica en el campo de la programación. Actualmente, estoy cursando un grado medio en programación, lo que me permite adquirir habilidades técnicas y prácticas esenciales para el desarrollo de software. Además, he completado recientemente el segundo año de un grado superior en programación en el Instituto Virrey Morcillo, donde he profundizado en tecnologías avanzadas, metodologías de desarrollo y proyectos colaborativos. 
+
+Mi experiencia académica me ha proporcionado una base sólida en diversas áreas de la programación y estoy motivado por seguir aprendiendo y creciendo en este campo, con el objetivo de enfrentar desafíos complejos y contribuir a proyectos innovadores.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 
