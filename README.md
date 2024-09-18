@@ -35,7 +35,7 @@ Mi experiencia académica me ha proporcionado una base sólida en diversas área
 
 ## Java Aarray
 
-<a href="https://cristian20305.github.io/JavaArray/"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://cristian20305.github.io/JavaArray/"><img src="Java.jpg" style="height: 60%; width:60%;"/></a>
 
 
 
