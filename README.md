@@ -4,7 +4,6 @@
 <img src="Cabecera.jpg" alt="Descripción de la imagen" width="2500" height="350"/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTVEWVKh-tl-zjuC3gJ7L3w?style=social)](https://youtube.com/channel/UCTVEWVKh-tl-zjuC3gJ7L3w?sub_confirmation=1)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://cristian20305.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/penalva_20?style=social)](https://twitter.com/penalva_20)
 ![GitHub Followers](https://img.shields.io/github/followers/Cristian20305?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Cristian20305?style=social)
