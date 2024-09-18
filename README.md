@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Cristian Penalva 👋
+# ![https://mouredev.com](Banner.jpg) Hola, mi nombre es Cristian Penalva 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
