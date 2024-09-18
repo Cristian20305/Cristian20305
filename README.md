@@ -33,35 +33,18 @@ Mi experiencia académica me ha proporcionado una base sólida en diversas área
 
 # Algunos proyectos de la comunidad
 
-## Ruta de estudio programación
+## Java Aarray
 
-<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://cristian20305.github.io/JavaArray/"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
-## SQL y bases de datos: Curso gratis
 
-<a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-sql?label=Curso%20SQL&style=social)](https://github.com/mouredev/hello-sql)
 
-## Python desde cero: Curso gratis
 
-<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
 
-## Git & GitHub desde cero: Curso gratis
 
-<a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
-
-## Un día, un lenguaje: Primeros pasos en 11 lenguajes
-
-<a href="https://mouredev.link/lenguajes"><img src="https://raw.githubusercontent.com/mouredev/one-day-one-language/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
 
 ## Algunos vídeos en YouTube:
 
