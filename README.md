@@ -1,5 +1,4 @@
- ![Foto](FotoInicio.jpg) <img src="FotoInicio.jpg" alt="Descripción de la imagen" width="100" height="100"/>
- Hola, mi nombre es Cristian Penalva 👋
+ <img src="FotoInicio.jpg" alt="Descripción de la imagen" width="100" height="100"/>   Hola, mi nombre es Cristian Penalva 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
