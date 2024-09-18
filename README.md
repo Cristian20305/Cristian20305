@@ -51,55 +51,20 @@ Mi experiencia académica me ha proporcionado una base sólida en diversas área
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=PaKtpPyIL18&t=946s">
+<img src="https://i.ytimg.com/vi/PaKtpPyIL18/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3AOAAtAFigIMCAAQARh_IEcoGDAP&rs=AOn4CLD_7HOVGlH-htxsocfHq9bZFPnSxA">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3UCZltG8iCY">
-<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=dV_PYAs9ZrQ&t=8s">
+<img src="https://i.ytimg.com/vi/dV_PYAs9ZrQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoWjAP&rs=AOn4CLCIN_4dVCyi8ubboaeWvMarfhZHRw">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=tFWCmEriXHc&t=57s">
+<img src="https://i.ytimg.com/vi/tFWCmEriXHc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgwIDcofzAP&rs=AOn4CLBPUvJYcf4gndiJqC-m9ZAa3WN1Vg">
 </a>
 </td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/G0ga_YVQOaw">
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/NJacVZx2fv8">
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/_y9qQZXE24A">
-<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/mIVbUb7shE8">
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/zFbTXe1yFGA">
-<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
-</a>
-</td>
-</tr>
 </table>
 
 ## Contacto y apoyo:
